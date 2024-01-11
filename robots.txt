@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://11pkvgames.jamus.co.uk/sitemap.xml
